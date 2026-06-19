@@ -2,7 +2,7 @@
 
 A custom-built FPV quadcopter with a fully hand-made 2.4 GHz radio link, onboard FPV video, and a tactical heads-up display - designed and built from scratch as a Grade 12 TEJ4M Computer Engineering capstone.
 
-**Authors:** Zyad Hossameldien, Algasem Zabarah
+**Authors:** Algasem Zabarah, Zyad Hossameldien
 **Course:** TEJ4M Computer Engineering - Capstone 2026
 **School:** Earl of March Secondary School
 
@@ -89,4 +89,4 @@ Achieves stable, controllable hover. Throttle, yaw, pitch, and roll all respond 
 
 ## Acknowledgements
 
-Built by Zyad Hossameldien and Algasem Zabarah for TEJ4M at Earl of March Secondary School, 2026. 
+Built by Algasem Zabarah and Zyad Hossameldien for TEJ4M at Earl of March Secondary School, 2026. 
